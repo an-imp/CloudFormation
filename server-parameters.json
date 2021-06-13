@@ -1,6 +1,10 @@
 [
 	{
-	  "ParameterKey": "ProjectName",
-	  "ParameterValue": "Udagram"
+		"ParameterKey": "ProjectName",
+		"ParameterValue": "Udagram"
+	},
+	{
+		"ParameterKey": "InstanceType",
+		"ParameterValue": "t3.medium"
 	}
   ]
